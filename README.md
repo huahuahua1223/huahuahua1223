@@ -12,7 +12,7 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/huahuahua1223#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=huahuahua1223&hide=issues&show_icons=true&count_private=true&theme=ambient_gradient&locale=cn&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/huahuahua1223#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=huahuahua1223&hide=issues&show_icons=true&count_private=true&theme=ambient_gradient&locale=cn&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/huahuahua1223#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&theme=ambient_gradient&locale=cn&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/huahuahua1223#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&theme=ambient_gradient&locale=cn&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
         <td rowspan="2" align="center"><a href="https://github.com/huahuahua1223#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huahuahua1223&hide=Shell,css,java&theme=ambient_gradient&locale=cn&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/huahuahua1223#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huahuahua1223&hide=Shell,css,java&theme=ambient_gradient&locale=cn&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
@@ -32,8 +32,8 @@
 
 - 👋 Hi, I’m `huahua`
 - 👀 I’m interested in `web3`
-- 🌱 I’m currently learning `zk` `move`
-- 📫 How to reach me ,wechat: `HHHHHH_1223`,email: `1494133104@qq.com`
+- 🌱 I’m currently learning `zk` `move` `sui` `DeFi`
+- 📫 How to reach me ,wechat: `HHHHHH_1223`,email: `1494133104@qq.com`, TG: `https://t.me/huahuahua1223`
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
