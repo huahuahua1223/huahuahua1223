@@ -76,32 +76,32 @@
 
 ## 📊 GitHub Stats
 
-<table align="center" width="100%">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=tokyonight" />
-        <img alt="huahuahua1223 stats" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=default" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=transparent" />
+        <img alt="huahuahua1223 stats" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=transparent" />
       </picture>
     </td>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=tokyonight&exclude=shell,css,java" />
-        <img alt="huahuahua1223 top langs" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=default&exclude=shell,css,java" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=transparent&exclude=shell,css,java" />
+        <img alt="huahuahua1223 top langs" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=transparent&exclude=shell,css,java" />
       </picture>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=tokyonight&exclude=shell,css,java" />
-        <img alt="huahuahua1223 most commit language" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=default&exclude=shell,css,java" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=transparent&exclude=shell,css,java" />
+        <img alt="huahuahua1223 most commit language" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=transparent&exclude=shell,css,java" />
       </picture>
     </td>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=tokyonight&utcOffset=8" />
-        <img alt="huahuahua1223 productive time" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=default&utcOffset=8" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=transparent&utcOffset=8" />
+        <img alt="huahuahua1223 productive time" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=transparent&utcOffset=8" />
       </picture>
     </td>
   </tr>
