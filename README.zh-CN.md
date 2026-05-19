@@ -82,19 +82,19 @@
     <img alt="huahuahua1223 stats" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=transparent" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=transparent&exclude=shell,css,java" />
-    <img alt="huahuahua1223 top langs" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=transparent&exclude=shell,css,java" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=transparent&exclude=Shell,CSS,Java" />
+    <img alt="huahuahua1223 top languages by commit" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=transparent&exclude=Shell,CSS,Java" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=transparent&exclude=shell,css,java" />
-    <img alt="huahuahua1223 most commit language" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=transparent&exclude=shell,css,java" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=transparent&utcOffset=8" />
     <img alt="huahuahua1223 productive time" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=transparent&utcOffset=8" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huahuahua1223&theme=transparent" />
+    <img alt="huahuahua1223 profile details" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huahuahua1223&theme=transparent" />
   </picture>
 </p>
 
