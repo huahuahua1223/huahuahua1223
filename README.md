@@ -27,7 +27,7 @@
 - 👋 Hi, I'm **huahua**, a Web3 full-stack developer
 - 🔭 Currently building a chat-DApp ecosystem (airdrop / red-packet / 1v1 message / group chat contracts)
 - 🌱 Diving into **Move · Sui · ZK · DeFi · Anti-quantum cryptography**
-- 🏆 Hackathon builder: **Sui Overflow 2025**, **ETH Shanghai**, **ETH Guangzhou**
+- 🏆 Hackathon builder: **Sui Overflow 2025**, **ETH Shanghai**, **ETH Shenzhen**
 - ✍️ Write technical blog posts regularly
 - 💬 Ask me about **Hardhat / Scaffold-ETH-2 / Sui Move**
 
@@ -50,17 +50,16 @@
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,html,css&perline=3&theme=dark" alt="frontend" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ethereum&perline=3&theme=dark" alt="web3-icons" />
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat" />
+      <img src="https://img.shields.io/badge/Foundry-5A5A5A?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry" />
       <br/>
-      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black" alt="Hardhat" />
-      <img src="https://img.shields.io/badge/Foundry-5A5A5A?style=flat-square&logo=foundry&logoColor=white" alt="Foundry" />
+      <img src="https://img.shields.io/badge/Scaffold--ETH--2-7C3AED?style=for-the-badge" alt="Scaffold-ETH" />
+      <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge" alt="ethers" />
       <br/>
-      <img src="https://img.shields.io/badge/Scaffold--ETH--2-7C3AED?style=flat-square" alt="Scaffold-ETH" />
-      <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square" alt="ethers" />
+      <img src="https://img.shields.io/badge/wagmi-1A1B1F?style=for-the-badge" alt="wagmi" />
+      <img src="https://img.shields.io/badge/Move-4E8EE9?style=for-the-badge&logoColor=white" alt="Move" />
       <br/>
-      <img src="https://img.shields.io/badge/wagmi-1A1B1F?style=flat-square" alt="wagmi" />
-      <img src="https://img.shields.io/badge/Move-4E8EE9?style=flat-square&logoColor=white" alt="Move" />
-      <img src="https://img.shields.io/badge/Sui-6FBCF0?style=flat-square&logoColor=white" alt="Sui" />
+      <img src="https://img.shields.io/badge/Sui-6FBCF0?style=for-the-badge&logoColor=white" alt="Sui" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,nodejs&perline=3&theme=dark" alt="devops" />
@@ -76,14 +75,14 @@
   <tr>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=huahuahua1223&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" />
-        <img alt="huahuahua1223 stats" src="https://github-readme-stats.vercel.app/api?username=huahuahua1223&show_icons=true&theme=ambient_gradient&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=tokyonight" />
+        <img alt="huahuahua1223 stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=default" />
       </picture>
     </td>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huahuahua1223&hide=Shell,css,java&theme=tokyonight&locale=cn&langs_count=8&layout=compact&hide_border=true&cache_seconds=86400" />
-        <img alt="huahuahua1223 top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huahuahua1223&hide=Shell,css,java&theme=ambient_gradient&locale=cn&langs_count=8&layout=compact&hide_border=true&cache_seconds=86400" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=tokyonight&exclude=shell,css,java" />
+        <img alt="huahuahua1223 top langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=default&exclude=shell,css,java" />
       </picture>
     </td>
   </tr>
@@ -144,61 +143,81 @@
 
 <table align="center">
   <tr>
-    <th>🛒 Marketplaces</th>
-    <th>🎯 Hackathons</th>
+    <th align="center" width="50%">🛒 Marketplaces</th>
+    <th align="center" width="50%">🎯 Hackathons</th>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/huahuahua1223/NFTMarket">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=NFTMarket&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-          <img alt="NFTMarket" src="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=NFTMarket&theme=ambient_gradient&hide_border=true&cache_seconds=86400" />
-        </picture>
-      </a>
+    <td valign="top">
+      <h3 align="center">🎨 <a href="https://github.com/huahuahua1223/NFTMarket">NFTMarket</a></h3>
+      <p align="center">基于 Next.js + Scaffold-ETH-2 的 NFT 交易市场</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Scaffold--ETH--2-7C3AED?style=flat-square" alt="Scaffold-ETH" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/huahuahua1223/NFTMarket?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
+        <img src="https://img.shields.io/github/last-commit/huahuahua1223/NFTMarket?style=flat-square&color=blue" alt="last commit" />
+      </p>
     </td>
-    <td>
-      <a href="https://github.com/huahuahua1223/ETH-GZ">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=ETH-GZ&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-          <img alt="ETH-GZ" src="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=ETH-GZ&theme=ambient_gradient&hide_border=true&cache_seconds=86400" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/huahuahua1223/fleaMarket">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=fleaMarket&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-          <img alt="fleaMarket" src="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=fleaMarket&theme=ambient_gradient&hide_border=true&cache_seconds=86400" />
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/huahuahua1223/community-dapp">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=community-dapp&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-          <img alt="community-dapp" src="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=community-dapp&theme=ambient_gradient&hide_border=true&cache_seconds=86400" />
-        </picture>
-      </a>
+    <td valign="top">
+      <h3 align="center">🌐 <a href="https://github.com/huahuahua1223/ETH-GZ">ETH-GZ</a></h3>
+      <p align="center">ETH 黑客松官方网站</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/huahuahua1223/ETH-GZ?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
+        <img src="https://img.shields.io/github/last-commit/huahuahua1223/ETH-GZ?style=flat-square&color=blue" alt="last commit" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/huahuahua1223/studentCompetition">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=studentCompetition&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-          <img alt="studentCompetition" src="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=studentCompetition&theme=ambient_gradient&hide_border=true&cache_seconds=86400" />
-        </picture>
-      </a>
+    <td valign="top">
+      <h3 align="center">🛍️ <a href="https://github.com/huahuahua1223/fleaMarket">fleaMarket</a></h3>
+      <p align="center">基于以太坊的 DApp 二手交易市场</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/huahuahua1223/fleaMarket?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
+        <img src="https://img.shields.io/github/last-commit/huahuahua1223/fleaMarket?style=flat-square&color=blue" alt="last commit" />
+      </p>
     </td>
-    <td>
-      <a href="https://github.com/huahuahua1223/ChiliSmile">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=ChiliSmile&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-          <img alt="ChiliSmile" src="https://github-readme-stats.vercel.app/api/pin/?username=huahuahua1223&repo=ChiliSmile&theme=ambient_gradient&hide_border=true&cache_seconds=86400" />
-        </picture>
-      </a>
+    <td valign="top">
+      <h3 align="center">🎨 <a href="https://github.com/huahuahua1223/community-dapp">community-dapp</a></h3>
+      <p align="center">Sui Overflow 2025 黑客松项目 NextArt</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Sui-6FBCF0?style=flat-square&logoColor=white" alt="Sui" />
+        <img src="https://img.shields.io/badge/Move-4E8EE9?style=flat-square&logoColor=white" alt="Move" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/huahuahua1223/community-dapp?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
+        <img src="https://img.shields.io/github/last-commit/huahuahua1223/community-dapp?style=flat-square&color=blue" alt="last commit" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3 align="center">🎓 <a href="https://github.com/huahuahua1223/studentCompetition">studentCompetition</a></h3>
+      <p align="center">基于 Next.js 的学生竞赛管理平台</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/huahuahua1223/studentCompetition?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
+        <img src="https://img.shields.io/github/last-commit/huahuahua1223/studentCompetition?style=flat-square&color=blue" alt="last commit" />
+      </p>
+    </td>
+    <td valign="top">
+      <h3 align="center">🌶️ <a href="https://github.com/huahuahua1223/ChiliSmile">ChiliSmile</a></h3>
+      <p align="center">Sui 黑客松 meme 社交平台</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Sui-6FBCF0?style=flat-square&logoColor=white" alt="Sui" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/huahuahua1223/ChiliSmile?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
+        <img src="https://img.shields.io/github/last-commit/huahuahua1223/ChiliSmile?style=flat-square&color=blue" alt="last commit" />
+      </p>
     </td>
   </tr>
 </table>
