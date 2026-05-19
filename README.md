@@ -99,12 +99,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=transparent&utcOffset=8&v=2" />
     <img alt="huahuahua1223 productive time" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=transparent&utcOffset=8&v=2" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&card_width=820&background=00000000" />
-    <img alt="huahuahua1223 streak" width="98%" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&card_width=820&background=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&card_width=340&background=00000000" />
+    <img alt="huahuahua1223 streak" width="49%" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&card_width=340&background=00000000" />
   </picture>
 </p>
 
