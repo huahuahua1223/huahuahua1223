@@ -108,8 +108,8 @@
   <tr>
     <td align="center" colspan="2">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
-        <img alt="huahuahua1223 streak" width="100%" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820&background=00000000" />
+        <img alt="huahuahua1223 streak" width="100%" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820&background=00000000" />
       </picture>
     </td>
   </tr>
