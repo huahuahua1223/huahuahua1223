@@ -78,8 +78,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=transparent" />
-    <img alt="huahuahua1223 stats" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=transparent" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" />
+    <img alt="huahuahua1223 stats" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=transparent&exclude=Shell,CSS,Java" />
