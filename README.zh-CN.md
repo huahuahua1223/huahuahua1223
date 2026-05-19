@@ -82,8 +82,8 @@
     <img alt="huahuahua1223 stats" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&locale=cn" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api/top-langs/?username=huahuahua1223&hide=Shell,CSS,HTML,Java,Less,SCSS,Sass,Hack,Roff&theme=transparent&hide_border=true&langs_count=8&layout=compact&card_width=467&locale=cn" />
-    <img alt="huahuahua1223 top languages by repo" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api/top-langs/?username=huahuahua1223&hide=Shell,CSS,HTML,Java,Less,SCSS,Sass,Hack,Roff&theme=transparent&hide_border=true&langs_count=8&layout=compact&card_width=467&locale=cn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api/top-langs/?username=huahuahua1223&hide=Shell,CSS,HTML,Java,Less,SCSS,Sass,Hack,Roff&theme=transparent&hide_border=true&langs_count=8&layout=compact&card_width=467&v=2&locale=cn" />
+    <img alt="huahuahua1223 top languages by repo" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api/top-langs/?username=huahuahua1223&hide=Shell,CSS,HTML,Java,Less,SCSS,Sass,Hack,Roff&theme=transparent&hide_border=true&langs_count=8&layout=compact&card_width=467&v=2&locale=cn" />
   </picture>
 </p>
 
