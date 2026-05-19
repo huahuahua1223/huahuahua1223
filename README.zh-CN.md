@@ -94,8 +94,8 @@
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&locale=cn" />
-        <img alt="huahuahua1223 streak" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&locale=cn" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=tokyonight&exclude=shell,css,java" />
+        <img alt="huahuahua1223 most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=default&exclude=shell,css,java" />
       </picture>
     </td>
     <td align="center">
@@ -106,6 +106,13 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
+    <img alt="huahuahua1223 streak" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
+  </picture>
+</p>
 
 <br/>
 
