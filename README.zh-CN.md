@@ -105,14 +105,15 @@
       </picture>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
+        <img alt="huahuahua1223 streak" width="100%" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
+      </picture>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
-    <img alt="huahuahua1223 streak" width="100%" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
-  </picture>
-</p>
 
 <br/>
 
