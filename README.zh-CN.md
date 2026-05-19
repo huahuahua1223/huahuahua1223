@@ -76,32 +76,32 @@
 
 ## 📊 GitHub 统计
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=tokyonight" />
-        <img alt="huahuahua1223 stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=default" />
+        <img alt="huahuahua1223 stats" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huahuahua1223&theme=default" />
       </picture>
     </td>
     <td align="center" width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=tokyonight&exclude=shell,css,java" />
-        <img alt="huahuahua1223 top langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=default&exclude=shell,css,java" />
+        <img alt="huahuahua1223 top langs" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huahuahua1223&theme=default&exclude=shell,css,java" />
       </picture>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=tokyonight&exclude=shell,css,java" />
-        <img alt="huahuahua1223 most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=default&exclude=shell,css,java" />
+        <img alt="huahuahua1223 most commit language" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=default&exclude=shell,css,java" />
       </picture>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=tokyonight&utcOffset=8" />
-        <img alt="huahuahua1223 productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=default&utcOffset=8" />
+        <img alt="huahuahua1223 productive time" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=default&utcOffset=8" />
       </picture>
     </td>
   </tr>
@@ -110,7 +110,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=huahuahua1223&theme=tokyonight&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
-    <img alt="huahuahua1223 streak" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
+    <img alt="huahuahua1223 streak" width="100%" src="https://streak-stats.demolab.com/?user=huahuahua1223&theme=ambient_gradient&hide_border=true&date_format=Y-m-d&locale=cn&card_width=820" />
   </picture>
 </p>
 
