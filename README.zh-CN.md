@@ -244,7 +244,7 @@
 ## 📬 联系我
 
 <p align="center">
-  <a href="https://twitter.com/hujny218119"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/hujny218119"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://t.me/huahuahua1223"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="#"><img src="https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-5C5C5C?style=for-the-badge&logo=rss&logoColor=white" alt="Tech Blog" /></a>
   <a href="mailto:1494133104@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
