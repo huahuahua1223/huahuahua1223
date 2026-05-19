@@ -78,8 +78,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" />
-    <img alt="huahuahua1223 stats" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" />
+    <img alt="huahuahua1223 stats" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api?username=huahuahua1223&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huahuahua1223&theme=transparent&exclude=Shell,CSS,Java" />
@@ -144,86 +144,50 @@
 
 ## 📌 Featured Projects
 
-<table align="center">
-  <tr>
-    <th align="center" width="50%">🛒 Marketplaces</th>
-    <th align="center" width="50%">🎯 Hackathons</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="center">🎨 <a href="https://github.com/huahuahua1223/NFTMarket">NFTMarket</a></h3>
-      <p align="center">NFT marketplace built with Next.js + Scaffold-ETH-2</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Scaffold--ETH--2-7C3AED?style=flat-square" alt="Scaffold-ETH" />
-        <br/>
-        <img src="https://img.shields.io/github/stars/huahuahua1223/NFTMarket?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
-        <img src="https://img.shields.io/github/last-commit/huahuahua1223/NFTMarket?style=flat-square&color=blue" alt="last commit" />
-      </p>
-    </td>
-    <td valign="top">
-      <h3 align="center">🌐 <a href="https://github.com/huahuahua1223/ETH-GZ">ETH-GZ</a></h3>
-      <p align="center">Official site for an ETH hackathon</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
-        <br/>
-        <img src="https://img.shields.io/github/stars/huahuahua1223/ETH-GZ?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
-        <img src="https://img.shields.io/github/last-commit/huahuahua1223/ETH-GZ?style=flat-square&color=blue" alt="last commit" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="center">🛍️ <a href="https://github.com/huahuahua1223/fleaMarket">fleaMarket</a></h3>
-      <p align="center">Ethereum-based DApp second-hand marketplace</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js" />
-        <br/>
-        <img src="https://img.shields.io/github/stars/huahuahua1223/fleaMarket?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
-        <img src="https://img.shields.io/github/last-commit/huahuahua1223/fleaMarket?style=flat-square&color=blue" alt="last commit" />
-      </p>
-    </td>
-    <td valign="top">
-      <h3 align="center">🎨 <a href="https://github.com/huahuahua1223/community-dapp">community-dapp</a></h3>
-      <p align="center">Sui Overflow 2025 hackathon project — NextArt</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Sui-6FBCF0?style=flat-square&logoColor=white" alt="Sui" />
-        <img src="https://img.shields.io/badge/Move-4E8EE9?style=flat-square&logoColor=white" alt="Move" />
-        <br/>
-        <img src="https://img.shields.io/github/stars/huahuahua1223/community-dapp?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
-        <img src="https://img.shields.io/github/last-commit/huahuahua1223/community-dapp?style=flat-square&color=blue" alt="last commit" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="center">🎓 <a href="https://github.com/huahuahua1223/studentCompetition">studentCompetition</a></h3>
-      <p align="center">Student competition management platform built with Next.js</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <br/>
-        <img src="https://img.shields.io/github/stars/huahuahua1223/studentCompetition?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
-        <img src="https://img.shields.io/github/last-commit/huahuahua1223/studentCompetition?style=flat-square&color=blue" alt="last commit" />
-      </p>
-    </td>
-    <td valign="top">
-      <h3 align="center">🌶️ <a href="https://github.com/huahuahua1223/ChiliSmile">ChiliSmile</a></h3>
-      <p align="center">Meme social platform from a Sui hackathon</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Sui-6FBCF0?style=flat-square&logoColor=white" alt="Sui" />
-        <br/>
-        <img src="https://img.shields.io/github/stars/huahuahua1223/ChiliSmile?style=flat-square&color=yellow&label=%E2%AD%90" alt="stars" />
-        <img src="https://img.shields.io/github/last-commit/huahuahua1223/ChiliSmile?style=flat-square&color=blue" alt="last commit" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/huahuahua1223/NFTMarket">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=NFTMarket&theme=transparent&hide_border=true" />
+      <img alt="NFTMarket" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=NFTMarket&theme=transparent&hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/huahuahua1223/ETH-GZ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=ETH-GZ&theme=transparent&hide_border=true" />
+      <img alt="ETH-GZ" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=ETH-GZ&theme=transparent&hide_border=true" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/huahuahua1223/fleaMarket">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=fleaMarket&theme=transparent&hide_border=true" />
+      <img alt="fleaMarket" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=fleaMarket&theme=transparent&hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/huahuahua1223/community-dapp">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=community-dapp&theme=transparent&hide_border=true" />
+      <img alt="community-dapp" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=community-dapp&theme=transparent&hide_border=true" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/huahuahua1223/studentCompetition">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=studentCompetition&theme=transparent&hide_border=true" />
+      <img alt="studentCompetition" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=studentCompetition&theme=transparent&hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/huahuahua1223/ChiliSmile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=ChiliSmile&theme=transparent&hide_border=true" />
+      <img alt="ChiliSmile" width="49%" src="https://github-readme-stats-zeta-seven-23.vercel.app/api/pin/?username=huahuahua1223&repo=ChiliSmile&theme=transparent&hide_border=true" />
+    </picture>
+  </a>
+</p>
 
 <details>
   <summary align="center">📚 <b>More cool experiments</b> (click to expand)</summary>
