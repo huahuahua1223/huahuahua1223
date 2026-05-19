@@ -89,12 +89,15 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huahuahua1223&theme=transparent&v=2" />
+    <img alt="huahuahua1223 profile details" width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huahuahua1223&theme=transparent&v=2" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=transparent&utcOffset=8&v=2" />
     <img alt="huahuahua1223 productive time" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huahuahua1223&theme=transparent&utcOffset=8&v=2" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huahuahua1223&theme=transparent&v=2" />
-    <img alt="huahuahua1223 profile details" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huahuahua1223&theme=transparent&v=2" />
   </picture>
 </p>
 
